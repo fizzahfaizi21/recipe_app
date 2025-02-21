@@ -146,7 +146,7 @@ class HomeScreen extends StatelessWidget {
           fontSize: 20,
           fontWeight: FontWeight.bold,
         ),
-        backgroundColor: Colors.purple,
+        backgroundColor: Colors.pink,
       ),
       body: ListView.builder(
         itemCount: recipes.length,

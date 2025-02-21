@@ -16,7 +16,7 @@ class DetailsScreen extends StatelessWidget {
           fontSize: 20,
           fontWeight: FontWeight.bold,
         ),
-        backgroundColor: Colors.purple,
+        backgroundColor: Colors.pink,
       ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),

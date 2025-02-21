@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Recipe App',
       theme: ThemeData(
-        primarySwatch: Colors.purple,
+        primarySwatch: Colors.pink,
         useMaterial3: true,
       ),
       home: HomeScreen(),
